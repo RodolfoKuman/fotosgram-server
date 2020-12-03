@@ -1,0 +1,3 @@
+# Ignoring directories
+node_modules/
+dist/
